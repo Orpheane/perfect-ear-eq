@@ -1,277 +1,197 @@
-# 🎧 Perfect Ear EQ — Free Chrome Equalizer, Bass Booster & Volume Booster
-
 <div align="center">
 
-[![Perfect Ear EQ promotional banner](assets/hero-banner.svg)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
-
-### **Make every Chrome tab sound the way you want.**
-
-**Clearer voices. Deeper bass. More control. No complicated setup.**
-
-Perfect Ear EQ is a **free Chrome audio equalizer** that enhances the sound of the browser tab you choose. Switch between six listening presets, customize a 7-band EQ, use optional Auto EQ and compression, and give quiet audio extra volume when you need it.
+[<img src="assets/hero-banner.svg" width="100%" alt="Perfect Ear EQ — Sound. Your way. Elegant purple, pink and turquoise artwork." />](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
 
 <br>
 
-[![Add Perfect Ear EQ to Chrome](https://img.shields.io/badge/ADD%20TO%20CHROME-FREE%20INSTALL-9F8AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
+### Clearer. Stronger. More personal.
 
-[![Chrome Extension](https://img.shields.io/badge/Platform-Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
-[![Version](https://img.shields.io/badge/Version-1.0.9-22C55E?style=for-the-badge)](#-whats-new-in-version-109)
-[![Audio Controls](https://img.shields.io/badge/EQ-7%20Bands-A88BFF?style=for-the-badge)](#-fine-tune-your-sound)
-[![Price](https://img.shields.io/badge/Price-Free-14B8A6?style=for-the-badge)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
-[![Privacy](https://img.shields.io/badge/Privacy-No%20Personal%20Data%20Collected-64748B?style=for-the-badge)](#-private-and-lightweight)
+A free audio equalizer for the Chrome tab you're using. Find a sound that feels right — from balanced music and deeper bass to more understandable voices.
 
-**[⬇️ Install from Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)** · **[🎵 Explore the presets](#-find-your-sound-six-presets)** · **[🔧 Features](#-fine-tune-your-sound)** · **[❓ FAQ](#-frequently-asked-questions)**
+<br>
+
+<a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi"><img src="https://img.shields.io/badge/GET%20PERFECT%20EAR%20EQ-ADD%20TO%20CHROME-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Get Perfect Ear EQ for free from the official Chrome Web Store"></a>
+
+<br><br>
+
+<sub>Free to install · Six sound presets · Private by design · Version 1.0.9</sub>
+
+<br><br>
+
+[Discover](#discover-a-better-way-to-listen) &nbsp; · &nbsp; [See the interface](#a-look-at-the-interface) &nbsp; · &nbsp; [Explore the sound](#find-your-sound) &nbsp; · &nbsp; [Install](#ready-to-hear-the-difference)
 
 </div>
 
 ---
 
-## ✨ What is Perfect Ear EQ?
+## Discover a better way to listen
 
-**Perfect Ear EQ is an audio-enhancement extension for Google Chrome.** It gives you an easy way to shape bass, midrange and treble, bring speech forward, manage changes in loudness and amplify quiet audio playing in a selected browser tab.
+Sometimes, your favorite song needs a little more depth. A podcast feels too quiet. A voice in a tutorial gets lost behind everything else.
 
-Whether you're listening to a favorite song, following a tutorial, watching a movie or trying to hear a quiet podcast, Perfect Ear EQ makes it easier to choose the sound you prefer — without needing to understand audio engineering.
+**Perfect Ear EQ brings your listening experience back into your hands.**
 
-**What makes it useful?**
+Choose a ready-made sound, fine-tune the seven-band equalizer, or let optional real-time Auto EQ and compression help shape the audio. Everything is made for everyday listeners — you don't need to be an audio expert.
 
-- **Start instantly:** Pick a preset instead of adjusting technical controls from scratch.
-- **Personalize everything:** Fine-tune seven frequency bands to match your taste.
-- **Keep your settings:** Your Custom EQ, Auto EQ and compressor choices are remembered automatically.
-- **Hear quieter content:** Use up to **600% volume boost**, with a look-ahead brickwall limiter designed to control output peaks.
-- **Make it yours:** Choose from four real-time visualizer styles and 16 interface themes.
-- **Keep it simple and private:** No ads and no personal data collection or transmission, according to the developer's product description.
+**What you can do**
 
-> **Important:** Perfect Ear EQ enhances audio in the Chrome browser tab you select. It is **not** a system-wide equalizer for desktop applications or games.
+- Hear **deeper bass** with a dedicated Bass Boost preset.
+- Bring **speech forward** with the Voice preset.
+- Get **more volume from quiet sources**, with boost settings up to 600%.
+- Create **your own signature sound** with Custom.
+- Enjoy a real-time visualizer in four styles and choose between 16 interface themes.
 
----
-
-## 🎶 Find Your Sound: Six Presets
-
-No complicated setup. Start with a listening mode that matches what you're doing.
-
-| Preset | What it sounds like | Great for |
-|:--|:--|:--|
-| 🎵 **Music** | Balanced sound across the frequencies | Songs, videos and everyday listening |
-| 🔊 **Bass Boost** | Stronger low-end impact | Bass-heavy music and fuller low frequencies |
-| 🎙️ **Voice** | Speech with more clarity | Podcasts, calls, tutorials and videos |
-| 🎬 **Cinema** | Fuller sound, moderate bass lift and added presence | Films and cinematic video |
-| ☁️ **Soft** | Warmer sound with gentler highs | Relaxed, comfortable listening |
-| 🎚️ **Custom** | Your own EQ and independent Auto EQ / compressor choices | Listening exactly your way |
-
-**How preset selection works:** Use the left and right arrows to browse the six presets. The currently selected preset is highlighted. **Browsing does not change your sound until you select a preset.**
-
-### 🎛️ Custom means your sound stays yours
-
-Want more than a preset? Use **Custom** to create a personal listening profile.
-
-- Set the seven EQ bands to your preferred sound.
-- Switch **Auto EQ** on or off independently.
-- Switch the **compressor** on or off independently.
-- Change presets without losing your Custom configuration.
-- Close and reopen the extension — your settings are saved automatically.
-
-The Custom preset remembers **both** your EQ and your separate Auto EQ and compression preferences.
+> Perfect Ear EQ processes audio in the **Chrome browser tab you choose**. It does not change your computer's system-wide audio.
 
 ---
 
-## ⚙️ Fine-Tune Your Sound
-
-### 🎚️ 7-band equalizer
-
-Control the balance between low, middle and high frequencies. Add depth to bass, adjust the frequencies that affect voices or soften a sound that feels too bright.
-
-Use a preset for instant results, or fine-tune the seven bands yourself in Custom.
-
-### ✨ Real-time Auto EQ
-
-Optional **Auto EQ** dynamically adjusts the sound while audio plays. It can help when you'd rather listen than continuously fine-tune sliders.
-
-Auto EQ can be enabled or disabled independently in Custom.
-
-### 🎚️ Optional audio compressor
-
-Some recordings jump between quiet passages and much louder ones. The optional compressor helps even out those differences for a more consistent listening experience.
-
-In Custom, you can keep compression on or off without changing your Auto EQ choice.
-
-### 🔊 Volume boost up to 600%
-
-Quiet tutorials, podcasts, lectures, calls and older recordings can be difficult to hear even when Chrome's normal volume is already turned up.
-
-Perfect Ear EQ includes **up to 600% volume boost** for low-volume sources.
-
-#### 🛡️ Look-ahead brickwall peak limiter
-
-A **look-ahead brickwall limiter** briefly looks ahead at incoming audio and controls peaks before they reach the output, helping prevent clipping and harsh distortion when increasing the volume or raising EQ bands.
-
-**Know the limits:** A 600% setting is *not* a guarantee of six times the perceived loudness. The attainable output depends on the audio source and your playback equipment. Loud recordings can reach the output limit at much lower settings; additional boost is mainly useful for quieter sources. Start with a low volume to protect your hearing.
-
-### 🌈 Four visualizer styles and 16 themes
-
-Enjoy a real-time audio visualizer with **four display styles** and personalize the extension with **16 interface themes**.
-
-The listening controls and visual appearance can be tailored separately to your preferences.
-
----
-
-## 🚀 Get Started in Three Steps
-
-1. **[Install Perfect Ear EQ from the official Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi).** No download from a third-party website is necessary.
-2. **Open the Chrome tab you want to enhance.** Play your music, video, podcast, call or tutorial and use Perfect Ear EQ's tab audio controls.
-3. **Choose a preset or create your own sound.** Explore Music, Bass Boost, Voice, Cinema or Soft, or use Custom for the 7-band EQ, Auto EQ and compressor.
-
-Settings are saved automatically, so your personalized Custom sound can be ready when you return.
+## A look at the interface
 
 <div align="center">
 
-### 🎧 Your next favorite sound is one click away.
+<a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi">
+  <img src="assets/real-interface-preview.png" alt="Authentic Perfect Ear EQ browser extension interface showing seven equalizer bands, preset controls, Auto EQ, compressor and volume boost. An earlier interface version is pictured." width="338">
+</a>
 
-[![Get Perfect Ear EQ — Free on Chrome](https://img.shields.io/badge/GET%20PERFECT%20EAR%20EQ-FREE%20ON%20CHROME-9F8AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
+<br>
 
-**[Open the official Chrome Web Store listing ↗](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)**
+<sub>Real Perfect Ear EQ interface preview from the developer's portfolio; an earlier design is shown. For the latest screenshots, visit the <a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi">official Chrome Web Store gallery</a>.</sub>
 
 </div>
 
 ---
 
-## 🔐 Private and Lightweight
+## Find your sound
 
-Perfect Ear EQ is designed to focus on your browser audio — not your personal information.
+<div align="center"><em>Six ways to listen. One extension that adapts to you.</em></div>
 
-According to the extension's official developer description:
+| | Preset | Listening experience |
+|:--:|:--|:--|
+| ♪ | **Music** | Balanced sound for songs, videos and everyday entertainment |
+| ♫ | **Bass Boost** | More low-end impact, without complicated tuning |
+| ◉ | **Voice** | Clearer speech in podcasts, calls, tutorials and videos |
+| ◇ | **Cinema** | Fuller film sound with a moderate bass lift and a touch of presence |
+| ☁ | **Soft** | Warmth and gentler highs for relaxed listening |
+| ✦ | **Custom** | Your EQ settings plus independently controlled Auto EQ and compressor |
 
-| Privacy and product principle | Perfect Ear EQ |
-|:--|:--|
-| Advertisements | **None** |
-| Personal data collected or transmitted | **None** |
-| Settings and diagnostics | **Remain on your device** |
-| External requests for extension operation | **None** |
-| Permissions | **Only those needed to enhance tab audio** |
-| Audio scope | **The browser tab you select** |
+Use the left and right arrows to browse your presets. **Browsing alone never changes the sound** — the preset applies when you select it.
 
-For the latest permissions and disclosures, always consult the [official Chrome Web Store listing](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi).
+### Made yours. Remembered automatically.
 
----
-
-## 🆕 What's New in Version 1.0.9
-
-### More ways to find your sound
-
-- 🎬 **Cinema** — New preset for fuller movie audio, a moderate bass lift and a little added presence.
-- ☁️ **Soft** — New preset for warmer sound and less aggressive highs.
-- 🎚️ **Custom** — Dedicated preset that remembers your seven-band EQ and your separate Auto EQ and compressor settings even when switching presets or reopening the extension.
-- ↔️ **Horizontal navigation** — Browse all six presets using left and right arrows, with selection separated from browsing.
-
-### Improvements introduced in Version 1.0.8
-
-**More volume when the source is quiet**
-
-- Maximum boost increased from **300% to 600%**.
-- Particularly useful for low-volume podcasts, tutorials, lectures, calls and older recordings.
-
-**Better control of output peaks**
-
-- The previous output limiter was replaced with a **look-ahead brickwall limiter**.
-- Designed to reduce clipping when boosting volume or EQ bands.
-- Lower measured distortion than the previous limiter in the developer's tested conditions.
-- A separate analysis path preserves the existing behavior of Auto EQ, Bass Boost and the visualizer across the expanded volume range.
-
-Higher boost settings mainly benefit quiet sources. The result always depends on the recording and playback equipment.
+Custom saves your seven-band EQ values and your independent Auto EQ and compressor choices, even after switching presets or reopening the extension. No need to start over every time.
 
 ---
 
-## ❓ Frequently Asked Questions
+## More control, without more complexity
+
+### A seven-band equalizer
+
+Adjust low, middle and high frequencies to your taste. Start with a preset, then move to Custom when you want something more personal.
+
+### Optional Auto EQ and compression
+
+**Auto EQ** dynamically adjusts your listening experience in real time. The **compressor** helps reduce the contrast between loud and quiet passages. Choose either, both, or neither in Custom.
+
+### Extra volume for quiet recordings
+
+Bring quiet podcasts, lectures, tutorials and older recordings up with **volume boost up to 600%**. A **look-ahead brickwall peak limiter** helps prevent output clipping when boosting audio.
+
+> **Good to know:** 600% is the available boost setting, not a guaranteed sixfold increase in perceived loudness. Loud sources can reach the output limit sooner. Results depend on the audio and your equipment. Start at a safe listening level.
+
+### A look that feels like yours
+
+A real-time audio visualizer with **four styles** and **16 interface themes** gives the extension a personal touch without complicating the controls.
+
+---
+
+## Designed to stay personal
+
+Perfect Ear EQ is free, lightweight and focused on audio. According to the developer's privacy disclosures:
+
+**No ads. No personal data collected or transmitted. No external requests.**
+
+Settings and diagnostics stay on your device. The extension uses only permissions needed to enhance selected tab audio. For the latest disclosures, check the [official Chrome Web Store listing](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi).
+
+---
+
+## What's new
 
 <details>
-<summary><strong>Is Perfect Ear EQ free to use?</strong></summary>
+<summary><strong>Version 1.0.9 — More ways to find your sound</strong></summary>
 
-Yes. **Perfect Ear EQ is free to install** from the [official Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi), and the developer describes it as ad-free.
+Cinema and Soft join the preset collection, alongside a dedicated Custom preset that remembers your EQ, Auto EQ and compressor settings. Horizontal navigation lets you browse all six presets without affecting the current sound until selection.
+
 </details>
 
 <details>
-<summary><strong>What is the best free equalizer for Chrome?</strong></summary>
+<summary><strong>Version 1.0.8 — More volume for quieter audio</strong></summary>
 
-The best choice depends on your listening needs. If you want a free Chrome equalizer with six sound presets, manual seven-band EQ, optional Auto EQ and compression, and extra volume for quiet recordings, Perfect Ear EQ is one option to consider. It works on the browser tab you select, rather than across your whole computer.
-</details>
+Maximum boost increased from 300% to 600%, with a new look-ahead brickwall limiter designed to improve peak control and reduce clipping. The higher settings primarily benefit quieter recordings, while Auto EQ, Bass Boost and the visualizer retain their existing behavior.
 
-<details>
-<summary><strong>How can I boost bass in Chrome?</strong></summary>
-
-Install Perfect Ear EQ and choose **Bass Boost** for a quick low-end lift. If you want a more personalized sound, select **Custom** and adjust the equalizer bands.
-</details>
-
-<details>
-<summary><strong>Can Perfect Ear EQ make quiet videos louder?</strong></summary>
-
-Yes. Its boost control reaches up to **600%** for quiet sources, and the look-ahead brickwall limiter helps manage peaks. This does not mean every recording will become six times louder. Loud sources may already reach the output limit at lower boost levels.
-</details>
-
-<details>
-<summary><strong>Can it make voices clearer during videos or calls?</strong></summary>
-
-The **Voice** preset is designed for clearer speech in podcasts, calls, tutorials and videos. Results can vary depending on the source recording.
-</details>
-
-<details>
-<summary><strong>Which sound presets are available?</strong></summary>
-
-**Music, Bass Boost, Voice, Cinema, Soft and Custom.** Use the left and right arrows to browse them. Your sound changes when you select a preset, not just when you browse to it.
-</details>
-
-<details>
-<summary><strong>Does Custom keep my settings after I change presets?</strong></summary>
-
-Yes. Custom saves your equalizer settings and your independent Auto EQ and compressor selections. Those settings remain available when switching presets or reopening the extension.
-</details>
-
-<details>
-<summary><strong>What is the difference between Auto EQ and compression?</strong></summary>
-
-**Auto EQ** dynamically adjusts sound balance. **Compression** helps reduce differences between louder and quieter passages. In the Custom preset, you can turn each feature on or off independently.
-</details>
-
-<details>
-<summary><strong>Does Perfect Ear EQ improve all the audio on my PC?</strong></summary>
-
-No. It enhances audio in the **Chrome browser tab you choose**. It is not a system-wide equalizer for desktop applications or games.
-</details>
-
-<details>
-<summary><strong>Does Perfect Ear EQ collect personal information?</strong></summary>
-
-According to the developer's description, **no personal data is collected or transmitted**, settings and diagnostics remain on your device, and the extension makes no external requests.
-</details>
-
-<details>
-<summary><strong>Where should I download Perfect Ear EQ?</strong></summary>
-
-Only use the [official Perfect Ear EQ listing on the Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi). This GitHub repository contains the project's public presentation material; it is not a third-party extension download mirror.
 </details>
 
 ---
 
-## 📌 Project and Installation Links
+## A few things worth knowing
 
-| Resource | Official destination |
-|:--|:--|
-| **Install the Chrome extension** | **[Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)** |
-| **Public GitHub repository** | [Orpheane/perfect-ear-eq](https://github.com/Orpheane/perfect-ear-eq) |
-| **Developer** | [Orpheane on GitHub](https://github.com/Orpheane) |
+<details>
+<summary><strong>Is Perfect Ear EQ free?</strong></summary>
 
-> **About this repository:** This is the official public product-presentation repository for Perfect Ear EQ. It does **not** contain the Chrome extension's full source code or installation binaries. The official Chrome Web Store is the installation destination. Public visibility does not, by itself, grant an open-source license.
+Yes. It's free to install from the official Chrome Web Store, with no ads according to the developer.
+
+</details>
+
+<details>
+<summary><strong>Do I need to understand audio frequencies?</strong></summary>
+
+Not at all. Choose Music, Bass Boost, Voice, Cinema or Soft for a quick starting point. Custom is there when you want finer control.
+
+</details>
+
+<details>
+<summary><strong>Does it work with online music, videos and podcasts?</strong></summary>
+
+Perfect Ear EQ is designed for audio in a selected Chrome tab, such as browser-based music, videos and podcasts. It is not a system-wide desktop equalizer, and results depend on the source audio.
+
+</details>
+
+<details>
+<summary><strong>Will I lose my settings if I switch presets?</strong></summary>
+
+No. Your Custom EQ, Auto EQ and compressor choices are saved automatically and remain available after reopening the extension.
+
+</details>
+
+<details>
+<summary><strong>Can it make extremely loud audio even louder?</strong></summary>
+
+Higher boost values are mainly useful for quiet audio. A recording already close to the output limit may not become perceptibly louder, even at higher settings.
+
+</details>
 
 ---
 
-## ⭐ Help More People Discover Perfect Ear EQ
-
-If Perfect Ear EQ makes your browser audio more enjoyable, consider **starring this GitHub repository** and sharing the official Chrome Web Store listing with someone who might find it useful.
+## Ready to hear the difference?
 
 <div align="center">
 
-### **🎧 Better sound starts here.**
+### Your sound. Your choice.
 
-[![Install Perfect Ear EQ](https://img.shields.io/badge/INSTALL%20PERFECT%20EAR%20EQ-CHROME%20WEB%20STORE-9F8AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
+No complicated setup. No endless menus. Just the tools to make everyday browser audio feel more like yours.
 
-<sub>Perfect Ear EQ · Created by <a href="https://github.com/Orpheane">Orpheane</a> · Product information for version 1.0.9</sub>
+<br>
+
+[![Install from Chrome Web Store](https://img.shields.io/badge/INSTALL%20FREE-CHROME%20WEB%20STORE-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)
+
+<br><br>
+
+**[Open Perfect Ear EQ on the Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi)**
+
+<br>
+
+<sub>Perfect Ear EQ · Created by <a href="https://github.com/Orpheane">Orpheane</a></sub>
 
 </div>
+
+---
+
+<sub>About this repository: This is the public presentation of Perfect Ear EQ, not the extension's source code or an alternative download service. Install through the official Chrome Web Store. Public repository visibility does not grant an open-source license.</sub>
