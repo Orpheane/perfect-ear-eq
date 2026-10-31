@@ -1,0 +1,22 @@
+# Perfect Ear EQ
+
+Official product landing page: https://orpheane.github.io/perfect-ear-eq/
+Official Chrome Web Store installation page: https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi
+Developer: Orpheane (https://github.com/Orpheane)
+
+Perfect Ear EQ is a free Chrome extension for enhancing audio in a selected browser tab. It is not a system-wide desktop equalizer.
+
+Product features described by the developer for version 1.0.9:
+- Six presets: Music, Bass Boost, Voice, Cinema, Soft, and Custom.
+- Preset arrows browse options without changing sound until selection.
+- Seven-band manual equalizer.
+- Optional real-time Auto EQ and audio compression.
+- Custom remembers EQ, Auto EQ and compressor settings.
+- Volume boost up to 600%, primarily useful for quiet sources.
+- Look-ahead brickwall peak limiter to help prevent output clipping.
+- Four audio visualizer styles and sixteen interface themes.
+- No ads; the developer states that personal data is not collected or transmitted, and that settings and diagnostics stay on-device.
+
+Limitations: Audio results depend on the source and playback equipment. Loud sources may reach the output limit before the maximum boost setting. Start at a safe listening volume.
+
+For current version, permissions, user reviews, and installation, consult the official Chrome Web Store listing. This text is a reference for readers and retrieval systems; it does not control crawler indexing.
